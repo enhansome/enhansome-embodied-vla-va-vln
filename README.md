@@ -4,7 +4,7 @@
 
 **A Curated Collection of Cutting-Edge Research in Embodied AI**
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21
 [![Papers](https://img.shields.io/badge/Papers-700%2B-0984e3?style=for-the-badge\&logo=google-scholar\&logoColor=white)](README.md)
 [![Last Commit](https://img.shields.io/github/last-commit/jonyzhang2023/awesome-embodied-vla-va-vln?style=for-the-badge\&color=00b894)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln/commits) ⭐ 3,485 | 🐛 4 | 📅 2026-08-07
 [![Stars](https://img.shields.io/github/stars/jonyzhang2023/awesome-embodied-vla-va-vln?style=for-the-badge\&color=fdcb6e\&logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln/stargazers) ⭐ 3,485 | 🐛 4 | 📅 2026-08-07
