@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "[2025] [IJRR 25] Foundation Models in Robotics: Applications, Challenges, and the Future [paper",
-          "description": "] [project]",
+          "description": "robotics-survey/Awesome-Robotics-Foundation-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -27,7 +27,7 @@
         {
           "node_type": "item",
           "title": "[2025] A Survey on Diffusion Policy for Robotic Manipulation: Taxonomy, Analysis, and Future Directions [paper",
-          "description": "] [project]",
+          "description": "iLearn-Lab/VLA-Diffusion-Policy-Robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,7 +48,7 @@
         {
           "node_type": "item",
           "title": "[2025] A Survey on Vision-Language-Action Models for Autonomous Driving [paper",
-          "description": "] [project]",
+          "description": "JohnsonJiang1996/Awesome-VLA4AD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -69,7 +69,7 @@
         {
           "node_type": "item",
           "title": "[2025] Large VLM-based Vision-Language-Action Models for Robotic Manipulation: A Survey [paper",
-          "description": "] [project]",
+          "description": "iLearn-Lab/Awesome-VLM-based-VLA-for-Robotic-Manipulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -90,7 +90,7 @@
         {
           "node_type": "item",
           "title": "[2025] A Comprehensive Survey on World Models for Embodied AI [paper",
-          "description": "] [project]",
+          "description": "Li-Zn-H/AwesomeWorldModels",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -111,7 +111,7 @@
         {
           "node_type": "item",
           "title": "[2025] Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends [paper",
-          "description": "] [project]",
+          "description": "AoqunJin/Awesome-VLA-Post-Training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -139,7 +139,7 @@
         {
           "node_type": "item",
           "title": "[2025] Generative Artificial Intelligence in Robotic Manipulation: A Survey [paper",
-          "description": "] [project]",
+          "description": "GAI4Manipulation/AwesomeGAIManipulation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -160,7 +160,7 @@
         {
           "node_type": "item",
           "title": "[2025] Neural Brain: A Neuroscience-inspired Framework for Embodied Agents [paper",
-          "description": "] [project]",
+          "description": "EmPACTLab/Neural-Brain-for-Embodied-Agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -190,7 +190,7 @@
         {
           "node_type": "item",
           "title": "[2025] Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision [paper",
-          "description": "] [project]",
+          "description": "Xiaofeng-Han-Res/MF-RV",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -219,7 +219,7 @@
             {
               "node_type": "item",
               "title": "[2026] [Nvidia] GROOT 1.7 [blog",
-              "description": "] [code]",
+              "description": "NVIDIA/Isaac-GR00T",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -232,7 +232,7 @@
                 "open_issues": 338,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8151,
+                "stars": 8152,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -240,7 +240,7 @@
             {
               "node_type": "item",
               "title": "[2026] [Dexmal] DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI [paper",
-              "description": "] [code]",
+              "description": "dexmal/dexbotic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -423,7 +423,7 @@
             {
               "node_type": "item",
               "title": "[2026] [QWen] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments [paper",
-              "description": "] [code]",
+              "description": "QwenLM/Qwen-VLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -436,7 +436,7 @@
                 "open_issues": 13,
                 "owner": "QwenLM",
                 "repo": "Qwen-VLA",
-                "stars": 770,
+                "stars": 769,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -478,7 +478,7 @@
                 "open_issues": 8,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hy-Embodied-0.5-VLA",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -486,7 +486,7 @@
             {
               "node_type": "item",
               "title": "[2026] ROSClaw [project",
-              "description": "] [code]",
+              "description": "ros-claw/rosclaw",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -495,7 +495,7 @@
                 "id": 1183044542,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-03T02:07:20Z",
+                "last_commit": "2026-10-03T04:25:55Z",
                 "open_issues": 13,
                 "owner": "ros-claw",
                 "repo": "rosclaw",
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "[2026] LangForce: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries [paper",
-              "description": "] [code]",
+              "description": "ZGC-EmbodyAI/LangForce",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "[2026] TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers [paper",
-              "description": "] [code]",
+              "description": "ZGC-EmbodyAI/TwinBrainVLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -719,7 +719,7 @@
             {
               "node_type": "item",
               "title": "[2025] SmolVLA: A vision-language-action model for affordable and efficient robotics [paper",
-              "description": "] [project]",
+              "description": "huggingface/lerobot",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -728,11 +728,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T19:05:43Z",
+                "last_commit": "2026-10-03T03:50:16Z",
                 "open_issues": 976,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 27911,
+                "stars": 27914,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -753,7 +753,7 @@
                 "open_issues": 352,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14077,
+                "stars": 14079,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -761,7 +761,7 @@
             {
               "node_type": "item",
               "title": "[2025] [Nvidia] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots [paper",
-              "description": "] [project]",
+              "description": "NVIDIA/Isaac-GR00T",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -774,7 +774,7 @@
                 "open_issues": 338,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8151,
+                "stars": 8152,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -782,7 +782,7 @@
             {
               "node_type": "item",
               "title": "[2025] RLinf: Reinforcement Learning Infrastructure for Post-training [doc",
-              "description": "] [code]",
+              "description": "RLinf/RLinf",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -795,7 +795,7 @@
                 "open_issues": 288,
                 "owner": "RLinf",
                 "repo": "RLinf",
-                "stars": 5424,
+                "stars": 5425,
                 "topics": [
                   "agentic-ai",
                   "embodied-ai",
@@ -823,7 +823,7 @@
                 "open_issues": 288,
                 "owner": "RLinf",
                 "repo": "RLinf",
-                "stars": 5424,
+                "stars": 5425,
                 "topics": [
                   "agentic-ai",
                   "embodied-ai",
@@ -859,7 +859,7 @@
             {
               "node_type": "item",
               "title": "[2025] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing [report",
-              "description": "] [code]",
+              "description": "starVLA/starVLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -906,7 +906,7 @@
             {
               "node_type": "item",
               "title": "[2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory [project",
-              "description": "]",
+              "description": "PRIME-RL/SimpleVLA-RL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
             {
               "node_type": "item",
               "title": "[2025] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning [paper",
-              "description": "] [code]",
+              "description": "PRIME-RL/SimpleVLA-RL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1006,7 +1006,7 @@
             {
               "node_type": "item",
               "title": "[2025] [RSS 25] Learning to Act Anywhere with Task-centric Latent Actions [paper",
-              "description": "] [project]",
+              "description": "OpenDriveLab/UniVLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,7 +1031,7 @@
             {
               "node_type": "item",
               "title": "[2025] WorldVLA: Towards Autoregressive Action World Model [paper",
-              "description": "] [project]",
+              "description": "alibaba-damo-academy/RynnVLA-002",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,7 +1052,7 @@
             {
               "node_type": "item",
               "title": "[2025] RynnVLA-002: A Unified Vision-Language-Action and World Model [paper",
-              "description": "] [code]",
+              "description": "alibaba-damo-academy/RynnVLA-002",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1133,7 +1133,7 @@
             {
               "node_type": "item",
               "title": "[2025] Spirit-v1.5 [report",
-              "description": "] [code]",
+              "description": "Spirit-AI-Team/spirit-v1.5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1246,7 +1246,7 @@
             {
               "node_type": "item",
               "title": "[2025] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning [paper",
-              "description": "] [project]",
+              "description": "GuanxingLu/vlarl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1313,7 +1313,7 @@
             {
               "node_type": "item",
               "title": "[2025] UniVLA: Unified Vision-Language-Action Model [paper",
-              "description": "] [code]",
+              "description": "baaivision/UniVLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1422,7 +1422,7 @@
             {
               "node_type": "item",
               "title": "[2025] LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model [project",
-              "description": "]",
+              "description": "OpenHelix-Team/LLaVA-VLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1510,7 +1510,7 @@
             {
               "node_type": "item",
               "title": "[2025] BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation [paper",
-              "description": "] [project]",
+              "description": "ustcwhy/BitVLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1647,7 +1647,7 @@
             {
               "node_type": "item",
               "title": "[2025] VLA-Touch: Enhancing Vision-Language-Action Models with Dual-Level Tactile Feedback [paper",
-              "description": "] [code]",
+              "description": "jxbi1010/VLA-Touch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1752,7 +1752,7 @@
             {
               "node_type": "item",
               "title": "[2025] Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding [paper",
-              "description": "] [project]",
+              "description": "MINT-SJTU/Evo-0",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1794,7 +1794,7 @@
             {
               "node_type": "item",
               "title": "[2025] HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies [paper",
-              "description": "] [code]",
+              "description": "ZhiyingDu/HiMoE-VLA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1819,7 +1819,7 @@
             {
               "node_type": "item",
               "title": "[2025] VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting [paper",
-              "description": "] [project]",
+              "description": "LukeLIN-web/vote",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1889,7 +1889,7 @@
             {
               "node_type": "item",
               "title": "[2024] MiniVLA: A Better VLA with a Smaller Footprint [paper",
-              "description": "] [project]",
+              "description": "Stanford-ILIAD/openvla-mini",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1981,7 +1981,7 @@
             {
               "node_type": "item",
               "title": "[2025] Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation [paper",
-              "description": "] [project]",
+              "description": "leggedrobotics/fdm",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2023,7 +2023,7 @@
             {
               "node_type": "item",
               "title": "[2025] Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation [paper",
-              "description": "] [project]",
+              "description": "MrZihan/Dynam3D",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2044,7 +2044,7 @@
             {
               "node_type": "item",
               "title": "[2025] ForesightNav: Learning Scene Imagination for Efficient Exploration [paper",
-              "description": "] [project]",
+              "description": "uzh-rpg/foresight-nav",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2094,7 +2094,7 @@
             {
               "node_type": "item",
               "title": "[2025] BeliefMapNav: 3D Voxel-Based Belief Map for Zero-Shot Object Navigation [paper",
-              "description": "] [project]",
+              "description": "ZiboKNOW/BeliefMapNav",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2144,7 +2144,7 @@
             {
               "node_type": "item",
               "title": "[2025] Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation [paper",
-              "description": "] [project]",
+              "description": "SaDil13/VLN-RAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2165,7 +2165,7 @@
             {
               "node_type": "item",
               "title": "[2025] CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory [paper",
-              "description": "] [project]",
+              "description": "VinceOuti/CityNavAgent",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2276,7 +2276,7 @@
             {
               "node_type": "item",
               "title": "[2025] Reinforcement Learning with Action Chunking [paper",
-              "description": "] [project]",
+              "description": "ColinQiyangLi/qc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2318,7 +2318,7 @@
             {
               "node_type": "item",
               "title": "[2025] [AAAI 25] FlowPolicy: Enabling Fast and Robust 3D Flow-Based Policy via Consistency Flow Matching for Robot Manipulation [paper",
-              "description": "] [project]",
+              "description": "zql-kk/FlowPolicy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2339,7 +2339,7 @@
             {
               "node_type": "item",
               "title": "[2025] ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation [paper",
-              "description": "] [project]",
+              "description": "RoboVerseOrg/ViTacFormer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2381,7 +2381,7 @@
             {
               "node_type": "item",
               "title": "[2025] [TRO] Hierarchical Diffusion Policy: Manipulation Trajectory Generation Via Contact Guidance [paper",
-              "description": "] [code]",
+              "description": "dexin-wang/Hierarchical-Diffusion-Policy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2423,7 +2423,7 @@
             {
               "node_type": "item",
               "title": "[2025] 3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model [paper",
-              "description": "] [project]",
+              "description": "Hoyyyaard/3DFlowAction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2465,7 +2465,7 @@
             {
               "node_type": "item",
               "title": "[2025] Diffusion-Based Imaginative Coordination for Bimanual Manipulation [paper",
-              "description": "] [project]",
+              "description": "return-sleep/Diffusion_based_imaginative_Coordination",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2486,7 +2486,7 @@
             {
               "node_type": "item",
               "title": "[2025] IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning [paper",
-              "description": "] [project]",
+              "description": "ucd-dare/IN-RIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2507,7 +2507,7 @@
             {
               "node_type": "item",
               "title": "[2025] Modality-Composable Diffusion Policy via Inference-Time Distribution-level Composition [paper",
-              "description": "] [project]",
+              "description": "SageCao1125/MCDP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2598,7 +2598,7 @@
             {
               "node_type": "item",
               "title": "[2025] Few-Shot Vision-Language Action-Incremental Policy Learning [paper",
-              "description": "] [project]",
+              "description": "MingC715/FSAIL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2619,7 +2619,7 @@
             {
               "node_type": "item",
               "title": "[2025] ProDapt: Proprioceptive Adaptation using Long-term Memory Diffusion [paper",
-              "description": "] [project]",
+              "description": "Federico-PizarroBejarano/prodapt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2674,7 +2674,7 @@
             {
               "node_type": "item",
               "title": "[2025] [NVIDIA] Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning [paper",
-              "description": "] [project]",
+              "description": "nvidia-cosmos/cosmos-reason1",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2695,7 +2695,7 @@
             {
               "node_type": "item",
               "title": "[2025] Visual Embodied Brain: Let Multimodal Large Language Models See, Think, and Control in Spaces [paper",
-              "description": "] [project]",
+              "description": "OpenGVLab/VeBrain",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2716,7 +2716,7 @@
             {
               "node_type": "item",
               "title": "[2025] LLM+MAP: Bimanual Robot Task Planning using Large Language Models and Planning Domain Definition Language [paper",
-              "description": "] [project]",
+              "description": "Kchu/LLM-MAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2744,7 +2744,7 @@
             {
               "node_type": "item",
               "title": "[2025] Large Language Models as Natural Selector for Embodied Soft Robot Design [paper",
-              "description": "] [project]",
+              "description": "changhechen/evogym_data_generation",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2765,7 +2765,7 @@
             {
               "node_type": "item",
               "title": "[2025] LLM-based Interactive Imitation Learning for Robotic Manipulation [paper",
-              "description": "] [project]",
+              "description": "Tubicor/LLM-iTeach",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2786,7 +2786,7 @@
             {
               "node_type": "item",
               "title": "[2025] AutoSpatial: Visual-Language Reasoning for Social Robot Navigation through Efficient Spatial Reasoning Learning [paper",
-              "description": "] [project]",
+              "description": "Yanko96/AutoSpatial",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2807,7 +2807,7 @@
             {
               "node_type": "item",
               "title": "[2025] NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model [paper",
-              "description": "] [project]",
+              "description": "laiyuzhi/NVP-HRI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2839,7 +2839,7 @@
         {
           "node_type": "item",
           "title": "[2025] RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning [paper",
-          "description": "] [project]",
+          "description": "RoboVerseOrg/RoboVerse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2865,7 +2865,7 @@
         {
           "node_type": "item",
           "title": "[2025] LocoMuJoCo [documentation",
-          "description": "] [project]",
+          "description": "robfiras/loco-mujoco",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2878,7 +2878,7 @@
             "open_issues": 43,
             "owner": "robfiras",
             "repo": "loco-mujoco",
-            "stars": 1471,
+            "stars": 1472,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:59.568Z"
@@ -2886,7 +2886,7 @@
         {
           "node_type": "item",
           "title": "[2025] EWMBENCH: Evaluating Scene, Motion, and Semantic Quality in Embodied World Models [paper",
-          "description": "] [project]",
+          "description": "AgibotTech/EWMBench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2907,7 +2907,7 @@
         {
           "node_type": "item",
           "title": "[2025] [CVPR 25] RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins [paper",
-          "description": "] [project]",
+          "description": "TianxingChen/RoboTwin",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2943,8 +2943,8 @@
             "id": 567038244,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T01:53:58Z",
-            "open_issues": 361,
+            "last_commit": "2026-10-03T03:34:54Z",
+            "open_issues": 360,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
             "stars": 8269,
@@ -2991,7 +2991,7 @@
         {
           "node_type": "item",
           "title": "[2025] MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation [paper",
-          "description": "] [project]",
+          "description": "michaal94/MuBlE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3018,7 +3018,7 @@
         {
           "node_type": "item",
           "title": "Awesome-LLM-Robotics [repo",
-          "description": "]",
+          "description": "GT-RIPL/Awesome-LLM-Robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3039,7 +3039,7 @@
         {
           "node_type": "item",
           "title": "Awesome World Models [repo",
-          "description": "]",
+          "description": "knightnemo/Awesome-World-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3066,7 +3066,7 @@
         {
           "node_type": "item",
           "title": "Awesome World Models for Robotics [repo",
-          "description": "]",
+          "description": "leofan90/Awesome-World-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3096,7 +3096,7 @@
         {
           "node_type": "item",
           "title": "Awesome-WAM [repo",
-          "description": "]",
+          "description": "OpenMOSS/Awesome-WAM",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3126,7 +3126,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Robotics-Foundation-Models [repo",
-          "description": "]",
+          "description": "robotics-survey/Awesome-Robotics-Foundation-Models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3147,7 +3147,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Astra-Embodied-AI [repo",
-          "description": "]",
+          "description": "zjwzcx/Awesome-Astra-Embodied-AI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3168,7 +3168,7 @@
         {
           "node_type": "item",
           "title": "OpenWorldLib [repo",
-          "description": "]",
+          "description": "OpenDCAI/OpenWorldLib",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3203,7 +3203,7 @@
         {
           "node_type": "item",
           "title": "Awesome-VLA-Robotics [repo",
-          "description": "]",
+          "description": "Jiaaqiliu/Awesome-VLA-Robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3224,7 +3224,7 @@
         {
           "node_type": "item",
           "title": "Awesome VLA for Robotics [repo",
-          "description": "]",
+          "description": "Jiaaqiliu/Awesome-VLA-Robotics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3245,7 +3245,7 @@
         {
           "node_type": "item",
           "title": "Awesome-VLA-RL [repo",
-          "description": "]",
+          "description": "OpenHelix-Team/Awesome-VLA-RL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3266,7 +3266,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Physical-AI [repo",
-          "description": "]",
+          "description": "keon/awesome-physical-ai",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3295,7 +3295,7 @@
         {
           "node_type": "item",
           "title": "Awesome VLA Study [repo",
-          "description": "]",
+          "description": "MilkClouds/awesome-vla-study",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3316,7 +3316,7 @@
         {
           "node_type": "item",
           "title": "Awesome-BFM-Papers [repo",
-          "description": "]",
+          "description": "friedrichyuan/awesome-bfm-papers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3337,7 +3337,7 @@
         {
           "node_type": "item",
           "title": "Awesome-VLA-Post-Training [repo",
-          "description": "]",
+          "description": "AoqunJin/Awesome-VLA-Post-Training",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3365,7 +3365,7 @@
         {
           "node_type": "item",
           "title": "Awesome-Generalist-Agents [repo",
-          "description": "]",
+          "description": "cheryyunl/awesome-generalist-agents",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3386,7 +3386,7 @@
         {
           "node_type": "item",
           "title": "Physical AI Atlas — open dataset (CC BY 4.0) of the physical AI ecosystem: humanoid robots, industrial platforms, VLA models, embedded chips, simulators and labs, bilingual FR/EN and dated per entry [repo",
-          "description": "] [site]",
+          "description": "PlbKin190/physical-ai-atlas-data",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3417,7 +3417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T02:21:33.456Z",
+    "last_updated": "2026-10-03T04:44:13.430Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. ",
