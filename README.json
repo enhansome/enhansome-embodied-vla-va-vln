@@ -19,7 +19,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1422,
+            "stars": 1423,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:59.568Z"
@@ -40,7 +40,7 @@
             "open_issues": 1,
             "owner": "iLearn-Lab",
             "repo": "VLA-Diffusion-Policy-Robotics",
-            "stars": 829,
+            "stars": 830,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:59.568Z"
@@ -232,7 +232,7 @@
                 "open_issues": 345,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8291,
+                "stars": 8294,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -253,7 +253,7 @@
                 "open_issues": 6,
                 "owner": "dexmal",
                 "repo": "dexbotic",
-                "stars": 3232,
+                "stars": 3235,
                 "topics": [
                   "codebase",
                   "cogact",
@@ -286,7 +286,7 @@
                 "open_issues": 0,
                 "owner": "physical-superintelligence-lab",
                 "repo": "Psi0",
-                "stars": 2877,
+                "stars": 2878,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -307,7 +307,7 @@
                 "open_issues": 41,
                 "owner": "dreamzero0",
                 "repo": "dreamzero",
-                "stars": 2742,
+                "stars": 2745,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -328,7 +328,7 @@
                 "open_issues": 76,
                 "owner": "Robbyant",
                 "repo": "lingbot-va",
-                "stars": 1963,
+                "stars": 1964,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -349,7 +349,7 @@
                 "open_issues": 41,
                 "owner": "Robbyant",
                 "repo": "lingbot-vla",
-                "stars": 1879,
+                "stars": 1881,
                 "topics": [
                   "embodied-ai",
                   "vla"
@@ -373,7 +373,7 @@
                 "open_issues": 44,
                 "owner": "yuantianyuan01",
                 "repo": "FastWAM",
-                "stars": 1629,
+                "stars": 1630,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -394,7 +394,7 @@
                 "open_issues": 22,
                 "owner": "BeingBeyond",
                 "repo": "Being-H",
-                "stars": 1151,
+                "stars": 1152,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -495,8 +495,8 @@
                 "id": 1183044542,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-29T20:14:24Z",
-                "open_issues": 87,
+                "last_commit": "2026-10-30T23:36:15Z",
+                "open_issues": 88,
                 "owner": "ros-claw",
                 "repo": "rosclaw",
                 "stars": 230,
@@ -541,7 +541,7 @@
                 "open_issues": 8,
                 "owner": "CladernyJorn",
                 "repo": "VLM4VLA",
-                "stars": 172,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -728,11 +728,11 @@
                 "id": 748713144,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T02:08:45Z",
-                "open_issues": 884,
+                "last_commit": "2026-10-30T20:10:43Z",
+                "open_issues": 861,
                 "owner": "huggingface",
                 "repo": "lerobot",
-                "stars": 28580,
+                "stars": 28601,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -750,10 +750,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-24T16:27:13Z",
-                "open_issues": 366,
+                "open_issues": 367,
                 "owner": "Physical-Intelligence",
                 "repo": "openpi",
-                "stars": 14462,
+                "stars": 14475,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -774,7 +774,7 @@
                 "open_issues": 345,
                 "owner": "NVIDIA",
                 "repo": "Isaac-GR00T",
-                "stars": 8291,
+                "stars": 8294,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -791,11 +791,11 @@
                 "id": 1037741738,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T02:57:42Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-30T07:51:08Z",
+                "open_issues": 321,
                 "owner": "RLinf",
                 "repo": "RLinf",
-                "stars": 5548,
+                "stars": 5558,
                 "topics": [
                   "agentic-ai",
                   "embodied-ai",
@@ -819,11 +819,11 @@
                 "id": 1037741738,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-30T02:57:42Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-30T07:51:08Z",
+                "open_issues": 321,
                 "owner": "RLinf",
                 "repo": "RLinf",
-                "stars": 5548,
+                "stars": 5558,
                 "topics": [
                   "agentic-ai",
                   "embodied-ai",
@@ -851,7 +851,7 @@
                 "open_issues": 99,
                 "owner": "facebookresearch",
                 "repo": "vjepa2",
-                "stars": 4831,
+                "stars": 4837,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -872,7 +872,7 @@
                 "open_issues": 61,
                 "owner": "starVLA",
                 "repo": "starVLA",
-                "stars": 3884,
+                "stars": 3891,
                 "topics": [
                   "robotic-foundation-model",
                   "robotics",
@@ -898,7 +898,7 @@
                 "open_issues": 15,
                 "owner": "open-gigaai",
                 "repo": "giga-brain-0",
-                "stars": 2667,
+                "stars": 2668,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -919,7 +919,7 @@
                 "open_issues": 50,
                 "owner": "PRIME-RL",
                 "repo": "SimpleVLA-RL",
-                "stars": 1901,
+                "stars": 1902,
                 "topics": [
                   "reasoning",
                   "rl",
@@ -944,7 +944,7 @@
                 "open_issues": 50,
                 "owner": "PRIME-RL",
                 "repo": "SimpleVLA-RL",
-                "stars": 1901,
+                "stars": 1902,
                 "topics": [
                   "reasoning",
                   "rl",
@@ -969,7 +969,7 @@
                 "open_issues": 35,
                 "owner": "thu-ml",
                 "repo": "Motus",
-                "stars": 1316,
+                "stars": 1317,
                 "topics": [
                   "diffusion-model",
                   "robotic-manipulation",
@@ -995,10 +995,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-18T06:48:24Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "X-Square-Robot",
                 "repo": "wall-x",
-                "stars": 1305,
+                "stars": 1306,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -1019,7 +1019,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1142,
+                "stars": 1143,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -1040,7 +1040,7 @@
                 "open_issues": 8,
                 "owner": "alibaba-damo-academy",
                 "repo": "RynnVLA-002",
-                "stars": 1142,
+                "stars": 1143,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -1061,7 +1061,7 @@
                 "open_issues": 24,
                 "owner": "OpenDriveLab",
                 "repo": "UniVLA",
-                "stars": 1141,
+                "stars": 1142,
                 "topics": [
                   "robot-learning",
                   "vision-language-actions-models",
@@ -1086,7 +1086,7 @@
                 "open_issues": 34,
                 "owner": "2toinf",
                 "repo": "X-VLA",
-                "stars": 754,
+                "stars": 756,
                 "topics": [
                   "cloth-folding",
                   "florence-2",
@@ -1116,7 +1116,7 @@
                 "open_issues": 34,
                 "owner": "2toinf",
                 "repo": "X-VLA",
-                "stars": 754,
+                "stars": 756,
                 "topics": [
                   "cloth-folding",
                   "florence-2",
@@ -1188,7 +1188,7 @@
                 "open_issues": 19,
                 "owner": "InternRobotics",
                 "repo": "InternVLA-A-series",
-                "stars": 571,
+                "stars": 572,
                 "topics": [
                   "manipulation",
                   "robotics",
@@ -1305,7 +1305,7 @@
                 "open_issues": 1,
                 "owner": "PKU-EPIC",
                 "repo": "GraspVLA",
-                "stars": 427,
+                "stars": 426,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -1389,7 +1389,7 @@
                 "open_issues": 9,
                 "owner": "OpenHelix-Team",
                 "repo": "ReconVLA",
-                "stars": 284,
+                "stars": 285,
                 "topics": [
                   "embodied",
                   "robotics",
@@ -1936,7 +1936,7 @@
                 "open_issues": 19,
                 "owner": "InternRobotics",
                 "repo": "InternNav",
-                "stars": 1156,
+                "stars": 1161,
                 "topics": [
                   "mllms",
                   "navigation",
@@ -2178,7 +2178,7 @@
                 "open_issues": 2,
                 "owner": "VinceOuti",
                 "repo": "CityNavAgent",
-                "stars": 18,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T07:05:59.568Z"
@@ -2848,11 +2848,11 @@
             "id": 960200422,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T02:45:27Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-30T04:07:12Z",
+            "open_issues": 68,
             "owner": "RoboVerseOrg",
             "repo": "RoboVerse",
-            "stars": 1877,
+            "stars": 1878,
             "topics": [
               "imitation-learning",
               "reinforcement-learning",
@@ -2878,7 +2878,7 @@
             "open_issues": 43,
             "owner": "robfiras",
             "repo": "loco-mujoco",
-            "stars": 1472,
+            "stars": 1471,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:59.568Z"
@@ -2943,11 +2943,11 @@
             "id": 567038244,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-30T02:26:17Z",
-            "open_issues": 410,
+            "last_commit": "2026-10-30T23:08:57Z",
+            "open_issues": 406,
             "owner": "isaac-sim",
             "repo": "IsaacLab",
-            "stars": 8523,
+            "stars": 8535,
             "topics": [
               "isaac-sim",
               "omniverse-kit-extension",
@@ -2973,7 +2973,7 @@
             "open_issues": 13,
             "owner": "UnrealZoo",
             "repo": "unrealzoo-gym",
-            "stars": 372,
+            "stars": 373,
             "topics": [
               "data-generation",
               "embodied-ai",
@@ -3052,7 +3052,7 @@
             "open_issues": 2,
             "owner": "knightnemo",
             "repo": "Awesome-World-Models",
-            "stars": 3506,
+            "stars": 3508,
             "topics": [
               "awesome-list",
               "dynamical-systems",
@@ -3079,7 +3079,7 @@
             "open_issues": 1,
             "owner": "leofan90",
             "repo": "Awesome-World-Models",
-            "stars": 2048,
+            "stars": 2050,
             "topics": [
               "artificial-intelligence",
               "autonomous-driving",
@@ -3139,7 +3139,7 @@
             "open_issues": 3,
             "owner": "robotics-survey",
             "repo": "Awesome-Robotics-Foundation-Models",
-            "stars": 1422,
+            "stars": 1423,
             "topics": []
           },
           "first_seen": "2026-08-28T07:05:59.568Z"
@@ -3160,7 +3160,7 @@
             "open_issues": 1,
             "owner": "zjwzcx",
             "repo": "Awesome-Astra-Embodied-AI",
-            "stars": 1216,
+            "stars": 1223,
             "topics": []
           },
           "first_seen": "2026-09-16T01:44:26.591Z"
@@ -3181,7 +3181,7 @@
             "open_issues": 6,
             "owner": "OpenDCAI",
             "repo": "OpenWorldLib",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "3d-scene-generation",
               "awesome-world-model",
@@ -3417,7 +3417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T03:00:14.638Z",
+    "last_updated": "2026-10-31T02:45:28.474Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of state-of-the-art research in embodied AI, focusing on vision-language-action (VLA) models, vision-language navigation (VLN), and related multimodal learning approaches. ",
@@ -3426,10 +3426,10 @@
       "language": null,
       "license": null,
       "last_commit": "2026-09-15T04:53:08Z",
-      "open_issues": 15,
+      "open_issues": 16,
       "owner": "jonyzhang2023",
       "repo": "awesome-embodied-vla-va-vln",
-      "stars": 3617,
+      "stars": 3616,
       "topics": []
     },
     "original_repository_sha": "b5786e73fd0ffeb57783cdc1e4776b636bc24f86",
