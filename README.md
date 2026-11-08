@@ -4,7 +4,7 @@
 
 **A Curated Collection of Cutting-Edge Research in Embodied AI**
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,572 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,262 | 🐛 103 | 📅 2026-09-02
 [![Papers](https://img.shields.io/badge/Papers-700%2B-0984e3?style=for-the-badge\&logo=google-scholar\&logoColor=white)](README.md)
 [![Last Commit](https://img.shields.io/github/last-commit/jonyzhang2023/awesome-embodied-vla-va-vln?style=for-the-badge\&color=00b894)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln/commits)
 [![Stars](https://img.shields.io/github/stars/jonyzhang2023/awesome-embodied-vla-va-vln?style=for-the-badge\&color=fdcb6e\&logo=github)](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln/stargazers)
@@ -94,14 +94,14 @@
 
 ### 2026
 
-* \[2026] \[**Nvidia**] GROOT 1.7 \[[blog](https://huggingface.co/nvidia/GR00T-N1.7-3B)] \[[code](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,326 | 🐛 344 | 🌐 Python | 📅 2026-11-07]
-* \[2026] \[**Dexmal**] DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI \[[paper](https://dexmal.com/DM0_Tech_Report.pdf)] \[[code](https://github.com/Dexmal/dexbotic) ⭐ 3,232 | 🐛 6 | 🌐 Python | 📅 2026-10-22]
+* \[2026] \[**Nvidia**] GROOT 1.7 \[[blog](https://huggingface.co/nvidia/GR00T-N1.7-3B)] \[[code](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,329 | 🐛 344 | 🌐 Python | 📅 2026-11-08]
+* \[2026] \[**Dexmal**] DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI \[[paper](https://dexmal.com/DM0_Tech_Report.pdf)] \[[code](https://github.com/Dexmal/dexbotic) ⭐ 3,233 | 🐛 6 | 🌐 Python | 📅 2026-10-22]
 * \[2026] Ψ₀: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation \[[paper](https://arxiv.org/pdf/2603.12263)] \[[project](https://psi-lab.ai/Psi0)] \[[code](https://github.com/physical-superintelligence-lab/Psi0) ⭐ 2,882 | 🐛 0 | 🌐 Python | 📅 2026-10-14]
 * \[2026] \[**NVIDIA**] DreamZero: World Action Models Are Zero-Shot Policies \[[paper](https://dreamzero0.github.io/DreamZero.pdf)] \[[project](https://dreamzero0.github.io/)] \[[code](https://github.com/dreamzero0/dreamzero) ⭐ 2,760 | 🐛 40 | 🌐 Python | 📅 2026-04-19]
 * \[2026] \[**Ant Group**] Causal World Modeling for Robot Control \[[paper](https://arxiv.org/pdf/2601.21998)] \[[project](https://technology.robbyant.com/lingbot-va)] \[[code](https://github.com/Robbyant/lingbot-va) ⭐ 1,976 | 🐛 76 | 🌐 Python | 📅 2026-07-09]
 * \[2026] \[**Ant Group**] A Pragmatic VLA Foundation Model \[[paper](https://arxiv.org/pdf/2601.18692)] \[[project](https://technology.robbyant.com/lingbot-vla/)] \[[code](https://github.com/robbyant/lingbot-vla) ⭐ 1,882 | 🐛 41 | 🌐 Python | 📅 2026-06-11]
-* \[2026] Fast-WAM: Do World Action Models Need Test-time Future Imagination? \[[paper](https://arxiv.org/pdf/2603.16666)] \[[project](https://yuantianyuan01.github.io/FastWAM/)] \[[code](https://github.com/yuantianyuan01/FastWAM) ⭐ 1,643 | 🐛 44 | 🌐 Python | 📅 2026-08-20]
-* \[2026] Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization \[[paper](https://arxiv.org/pdf/2601.12993)] \[[project](https://research.beingbeyond.com/being-h05)] \[[code](https://github.com/BeingBeyond/Being-H) ⭐ 1,155 | 🐛 22 | 🌐 Python | 📅 2026-09-27]
+* \[2026] Fast-WAM: Do World Action Models Need Test-time Future Imagination? \[[paper](https://arxiv.org/pdf/2603.16666)] \[[project](https://yuantianyuan01.github.io/FastWAM/)] \[[code](https://github.com/yuantianyuan01/FastWAM) ⭐ 1,644 | 🐛 44 | 🌐 Python | 📅 2026-08-20]
+* \[2026] Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization \[[paper](https://arxiv.org/pdf/2601.12993)] \[[project](https://research.beingbeyond.com/being-h05)] \[[code](https://github.com/BeingBeyond/Being-H) ⭐ 1,156 | 🐛 22 | 🌐 Python | 📅 2026-09-27]
 * \[2026] RDT2: Exploring the Scaling Limit of UMI Data Towards Zero-Shot Cross-Embodiment Generalization \[[paper](https://arxiv.org/pdf/2602.03310)] \[[project](https://rdt-robotics.github.io/rdt2/)] \[[code](https://github.com/thu-ml/RDT2) ⭐ 810 | 🐛 19 | 🌐 Python | 📅 2026-02-07]
 * \[2026] \[**QWen**] Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments \[[paper](https://arxiv.org/pdf/2605.30280)] \[[code](https://github.com/QwenLM/Qwen-VLA) ⭐ 782 | 🐛 13 | 📅 2026-05-29]
 * \[2026] \[**AMap Group**] ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning \[[paper](https://arxiv.org/pdf/2602.11236)] \[[project](https://amap-cvlab.github.io/ABot-Manipulation/)] \[[code](https://github.com/amap-cvlab/ABot-Manipulation) ⭐ 711 | 🐛 9 | 🌐 Python | 📅 2026-07-22]
@@ -131,34 +131,34 @@
 
 ### 2025
 
-* \[2025] SmolVLA: A vision-language-action model for affordable and efficient robotics \[[paper](https://arxiv.org/pdf/2506.01844)] \[[project](https://github.com/huggingface/lerobot) ⭐ 28,723 | 🐛 912 | 🌐 Python | 📅 2026-11-06]
-* \[2025] \[**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization \[[paper](https://arxiv.org/pdf/2504.16054)] \[[project](https://www.pi.website/blog/pi05)] \[[code](https://github.com/Physical-Intelligence/openpi) ⭐ 14,565 | 🐛 375 | 🌐 Python | 📅 2026-08-24]
-* \[2025] \[**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots \[[paper](https://arxiv.org/pdf/2503.14734)] \[[project](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,326 | 🐛 344 | 🌐 Python | 📅 2026-11-07]
-* \[2025] RLinf: Reinforcement Learning Infrastructure for Post-training \[[doc](https://rlinf.readthedocs.io/en/latest/)] \[[code](https://github.com/RLinf/RLinf) ⭐ 5,606 | 🐛 339 | 🌐 Python | 📅 2026-11-06]
-* \[2025] RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training \[[paper](https://arxiv.org/pdf/2510.06710)] \[[huggingface](https://huggingface.co/RLinf)] \[[code](https://github.com/RLinf/RLinf) ⭐ 5,606 | 🐛 339 | 🌐 Python | 📅 2026-11-06]
-* \[2025] \[**Meta**] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning \[[paper](https://arxiv.org/pdf/2506.09985)] \[[project](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] \[[code](https://github.com/facebookresearch/vjepa2) ⭐ 4,860 | 🐛 99 | 🌐 Python | 📅 2026-10-29]
-* \[2025] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing \[[report](https://www.overleaf.com/read/qqtwrnprctkf#d5bdce)] \[[code](https://github.com/starVLA/starVLA) ⭐ 3,920 | 🐛 63 | 🌐 Python | 📅 2026-10-31]
+* \[2025] SmolVLA: A vision-language-action model for affordable and efficient robotics \[[paper](https://arxiv.org/pdf/2506.01844)] \[[project](https://github.com/huggingface/lerobot) ⭐ 28,737 | 🐛 916 | 🌐 Python | 📅 2026-11-07]
+* \[2025] \[**Physical Intelligence**] π0.5: A Vision-Language-Action Model with Open-World Generalization \[[paper](https://arxiv.org/pdf/2504.16054)] \[[project](https://www.pi.website/blog/pi05)] \[[code](https://github.com/Physical-Intelligence/openpi) ⭐ 14,570 | 🐛 376 | 🌐 Python | 📅 2026-08-24]
+* \[2025] \[**Nvidia**] GR00T N1: An Open Foundation Model for Generalist Humanoid Robots \[[paper](https://arxiv.org/pdf/2503.14734)] \[[project](https://github.com/NVIDIA/Isaac-GR00T) ⭐ 8,329 | 🐛 344 | 🌐 Python | 📅 2026-11-08]
+* \[2025] RLinf: Reinforcement Learning Infrastructure for Post-training \[[doc](https://rlinf.readthedocs.io/en/latest/)] \[[code](https://github.com/RLinf/RLinf) ⭐ 5,609 | 🐛 340 | 🌐 Python | 📅 2026-11-06]
+* \[2025] RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training \[[paper](https://arxiv.org/pdf/2510.06710)] \[[huggingface](https://huggingface.co/RLinf)] \[[code](https://github.com/RLinf/RLinf) ⭐ 5,609 | 🐛 340 | 🌐 Python | 📅 2026-11-06]
+* \[2025] \[**Meta**] V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning \[[paper](https://arxiv.org/pdf/2506.09985)] \[[project](https://ai.meta.com/blog/v-jepa-2-world-model-benchmarks/)] \[[code](https://github.com/facebookresearch/vjepa2) ⭐ 4,861 | 🐛 100 | 🌐 Python | 📅 2026-10-29]
+* \[2025] StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing \[[report](https://www.overleaf.com/read/qqtwrnprctkf#d5bdce)] \[[code](https://github.com/starVLA/starVLA) ⭐ 3,921 | 🐛 63 | 🌐 Python | 📅 2026-10-31]
 * \[2025] GigaBrain-0: A World Model-Powered Vision-Language-Action Model \[[paper](https://arxiv.org/pdf/2510.19430)] \[\[\[project])(<https://gigabrain0.github.io/>)] \[[code](https://github.com/open-gigaai/giga-brain-0) ⭐ 2,672 | 🐛 15 | 🌐 Python | 📅 2026-09-09]
-* \[2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory \[[project](https://github.com/PRIME-RL/SimpleVLA-RL) ⭐ 1,906 | 🐛 50 | 🌐 Python | 📅 2026-01-06]
-* \[2025] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning \[[paper](https://arxiv.org/pdf/2509.09674)] \[[code](https://github.com/PRIME-RL/SimpleVLA-RL) ⭐ 1,906 | 🐛 50 | 🌐 Python | 📅 2026-01-06]
+* \[2025] Online RL with Simple Reward Enables Training VLA Models with Only One Trajectory \[[project](https://github.com/PRIME-RL/SimpleVLA-RL) ⭐ 1,908 | 🐛 50 | 🌐 Python | 📅 2026-01-06]
+* \[2025] SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning \[[paper](https://arxiv.org/pdf/2509.09674)] \[[code](https://github.com/PRIME-RL/SimpleVLA-RL) ⭐ 1,908 | 🐛 50 | 🌐 Python | 📅 2026-01-06]
 * \[2025] Motus: A Unified Latent Action World Model \[[paper](https://arxiv.org/pdf/2512.13030)] \[[project](https://motus-robotics.github.io/motus)] \[[code](https://github.com/thu-ml/Motus) ⭐ 1,316 | 🐛 35 | 🌐 Python | 📅 2026-10-09]
-* \[2025] \[**X Square Robot**] Wall-OSS: Igniting VLMs toward the Embodied Space \[[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)] \[[paper](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)] \[[code](https://github.com/X-Square-Robot/wall-x) ⭐ 1,313 | 🐛 54 | 🌐 Python | 📅 2026-09-18]
+* \[2025] \[**X Square Robot**] Wall-OSS: Igniting VLMs toward the Embodied Space \[[project](https://x2robot.com/en/research/68bc2cde8497d7f238dde690)] \[[paper](https://x2robot.cn-wlcb.ufileos.com/wall_oss.pdf)] \[[code](https://github.com/X-Square-Robot/wall-x) ⭐ 1,314 | 🐛 54 | 🌐 Python | 📅 2026-09-18]
 * \[2025] \[**RSS 25**] Learning to Act Anywhere with Task-centric Latent Actions \[[paper](https://arxiv.org/pdf/2505.06111)] \[[project](https://github.com/OpenDriveLab/UniVLA) ⭐ 1,144 | 🐛 24 | 🌐 Python | 📅 2025-11-19]
 * \[2025] WorldVLA: Towards Autoregressive Action World Model \[[paper](https://arxiv.org/pdf/2506.21539)] \[[project](https://github.com/alibaba-damo-academy/WorldVLA) ⭐ 1,144 | 🐛 8 | 🌐 Python | 📅 2025-12-02]
 * \[2025] RynnVLA-002: A Unified Vision-Language-Action and World Model \[[paper](https://arxiv.org/pdf/2511.14659)] \[[code](https://github.com/alibaba-damo-academy/RynnVLA-002) ⭐ 1,144 | 🐛 8 | 🌐 Python | 📅 2025-12-02]
-* \[2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model \[[paper](https://arxiv.org/pdf/2510.10274)] \[[project](https://thu-air-dream.github.io/X-VLA/)] \[[code](https://github.com/2toinf/X-VLA) ⭐ 759 | 🐛 35 | 🌐 C++ | 📅 2026-10-20]
-* \[2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model \[[paper](https://arxiv.org/pdf/2510.10274)] \[[project](https://thu-air-dream.github.io/X-VLA/)] \[[code](https://github.com/2toinf/X-VLA) ⭐ 759 | 🐛 35 | 🌐 C++ | 📅 2026-10-20]
+* \[2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model \[[paper](https://arxiv.org/pdf/2510.10274)] \[[project](https://thu-air-dream.github.io/X-VLA/)] \[[code](https://github.com/2toinf/X-VLA) ⭐ 760 | 🐛 35 | 🌐 C++ | 📅 2026-10-20]
+* \[2025] X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model \[[paper](https://arxiv.org/pdf/2510.10274)] \[[project](https://thu-air-dream.github.io/X-VLA/)] \[[code](https://github.com/2toinf/X-VLA) ⭐ 760 | 🐛 35 | 🌐 C++ | 📅 2026-10-20]
 * \[2025] Spirit-v1.5 \[[report](https://www.spirit-ai.com/en/blog/spirit-v1-5)] \[[code](https://github.com/Spirit-AI-Team/spirit-v1.5?tab=readme-ov-file) ⭐ 672 | 🐛 4 | 🌐 Python | 📅 2026-05-29]
 * \[2025] \[**AgiBot**] Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation \[[paper](https://arxiv.org/pdf/2508.05635)] \[[project](https://genie-envisioner.github.io/)] \[[code](https://github.com/AgibotTech/Genie-Envisioner) ⭐ 591 | 🐛 19 | 🌐 Python | 📅 2026-09-10]
 * \[2025] InternVLA-A1: Unifying Understanding, Generation and Action for Robotic Manipulation \[[paper](https://arxiv.org/pdf/2601.02456)] \[[project](https://huggingface.co/InternRobotics/InternVLA-A1-3B)] \[[code](https://github.com/InternRobotics/InternVLA-A1) ⭐ 574 | 🐛 20 | 🌐 Python | 📅 2026-09-14]
-* \[2025] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos \[[paper](https://arxiv.org/pdf/2510.21571)] \[[project](https://microsoft.github.io/VITRA/)] \[[code](https://github.com/microsoft/VITRA/) ⭐ 514 | 🐛 10 | 🌐 Python | 📅 2026-06-12]
+* \[2025] Scalable Vision-Language-Action Model Pretraining for Robotic Manipulation with Real-Life Human Activity Videos \[[paper](https://arxiv.org/pdf/2510.21571)] \[[project](https://microsoft.github.io/VITRA/)] \[[code](https://github.com/microsoft/VITRA/) ⭐ 515 | 🐛 10 | 🌐 Python | 📅 2026-06-12]
 * \[2025] \[**Nvidia**] VLA-0: Building State-of-the-Art VLAs with Zero Modification \[[paper](https://arxiv.org/pdf/2510.13054)] \[[project](https://vla0.github.io/)] \[[code](https://github.com/NVlabs/vla0) ⭐ 498 | 🐛 14 | 🌐 Python | 📅 2026-02-21]
 * \[2025] VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning \[[paper](https://arxiv.org/pdf/2505.18719)] \[[project](https://github.com/GuanxingLu/vlarl) ⭐ 465 | 🐛 17 | 🌐 Python | 📅 2025-11-08]
 * \[2025] InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for Generalist Robot Policy \[[paper](https://arxiv.org/pdf/2510.13778)] \[[project](https://internrobotics.github.io/internvla-m1.github.io/)] \[[code](https://github.com/InternRobotics/InternVLA-M1) ⭐ 438 | 🐛 9 | 🌐 Python | 📅 2026-10-09]
-* \[2025] \[**CoRL**] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data \[[project](https://pku-epic.github.io/GraspVLA-web/)] \[[paper](https://arxiv.org/pdf/2505.03233)] \[[code](https://github.com/PKU-EPIC/GraspVLA) ⭐ 428 | 🐛 1 | 🌐 Python | 📅 2026-08-19]
-* \[2025] Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model \[[paper](https://arxiv.org/pdf/2510.12276)] \[[project](https://spatial-forcing.github.io/)] \[[code](https://github.com/OpenHelix-Team/Spatial-Forcing) ⭐ 336 | 🐛 7 | 🌐 Python | 📅 2026-11-06]
+* \[2025] \[**CoRL**] GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data \[[project](https://pku-epic.github.io/GraspVLA-web/)] \[[paper](https://arxiv.org/pdf/2505.03233)] \[[code](https://github.com/PKU-EPIC/GraspVLA) ⭐ 429 | 🐛 1 | 🌐 Python | 📅 2026-08-19]
+* \[2025] Spatial Forcing: Implicit Spatial Representation Alignment for Vision-language-action Model \[[paper](https://arxiv.org/pdf/2510.12276)] \[[project](https://spatial-forcing.github.io/)] \[[code](https://github.com/OpenHelix-Team/Spatial-Forcing) ⭐ 339 | 🐛 6 | 🌐 Python | 📅 2026-11-07]
 * \[2025] UniVLA: Unified Vision-Language-Action Model \[[paper](https://arxiv.org/abs/2506.19850)] \[[code](https://github.com/baaivision/UniVLA) ⭐ 322 | 🐛 6 | 🌐 Python | 📅 2025-10-15]
-* \[2025] \[**NeurIPS 25**] What Can RL Bring to VLA Generalization? An Empirical Study \[[paper](https://arxiv.org/pdf/2505.19789?)] \[[project](https://rlvla.github.io/)] \[[code](https://github.com/gen-robot/RL4VLA) ⭐ 297 | 🐛 6 | 🌐 Python | 📅 2025-08-25]
+* \[2025] \[**NeurIPS 25**] What Can RL Bring to VLA Generalization? An Empirical Study \[[paper](https://arxiv.org/pdf/2505.19789?)] \[[project](https://rlvla.github.io/)] \[[code](https://github.com/gen-robot/RL4VLA) ⭐ 298 | 🐛 6 | 🌐 Python | 📅 2025-08-25]
 * \[2025] ReconVLA: Reconstructive Vision-Language-Action Model as Effective Robot Perceiver \[[paper](https://arxiv.org/pdf/2508.10333)] \[[project](https://zionchow.github.io/ReconVLA/)] \[[code](https://github.com/Chowzy069/Reconvla) ⭐ 286 | 🐛 9 | 🌐 Python | 📅 2026-04-01]
 * \[2025] Large Video Planner \[[paper](https://arxiv.org/abs/2512.15840)] \[\[\[project])(<https://www.boyuan.space/large-video-planner/>)] \[[code](https://github.com/buoyancy99/large-video-planner/tree/main) ⭐ 265 | 🐛 3 | 🌐 Python | 📅 2026-01-31]
 * \[2025] LLaVA-VLA: A Simple Yet Powerful Vision-Language-Action Model \[[project](https://github.com/OpenHelix-Team/LLaVA-VLA) ⭐ 214 | 🐛 4 | 🌐 Python | 📅 2026-03-12]
@@ -178,7 +178,7 @@
 * \[2025] Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos \[[paper](https://arxiv.org/pdf/2507.15597)] \[[project](https://beingbeyond.github.io/Being-H0/)] \[[code](https://github.com/BeingBeyond/Being-H0) ⭐ 61 | 🐛 1 | 🌐 Python | 📅 2026-05-04]
 * \[2025] Evo-0: Vision-Language-Action Model with Implicit Spatial Understanding \[[paper](https://arxiv.org/pdf/2507.00416)] \[[project](https://github.com/MINT-SJTU/Evo-VLA) ⭐ 54 | 🐛 2 | 📅 2025-11-24]
 * \[2025] \[**CoRL 25**] RoboMonkey: Scaling Test-Time Sampling and Verification for Vision-Language-Action Models \[[paper](https://arxiv.org/pdf/2506.17811)] \[[project](https://robomonkey-vla.github.io/)] \[[code](https://github.com/robomonkey-vla/RoboMonkey) ⭐ 48 | 🐛 3 | 🌐 Python | 📅 2026-04-09]
-* \[2025] HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies \[[paper](https://arxiv.org/abs/2512.05693)] \[[code](https://github.com/ZhiyingDu/HiMoE-VLA) ⭐ 37 | 🐛 0 | 🌐 Python | 📅 2026-09-05]
+* \[2025] HiMoE-VLA: Hierarchical Mixture-of-Experts for Generalist Vision-Language-Action Policies \[[paper](https://arxiv.org/abs/2512.05693)] \[[code](https://github.com/ZhiyingDu/HiMoE-VLA) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-09-05]
 * \[2025] VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting \[[paper](https://arxiv.org/pdf/2507.05116v1)] \[[project](https://github.com/LukeLIN-web/VOTE) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-10-20]
 * \[2025] Pixel Motion as Universal Representation for Robot Control \[[paper](https://arxiv.org/pdf/2505.07817)] \[[project](https://kahnchana.github.io/LangToMo/)] \[[code](https://github.com/kahnchana/LangToMo) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-03-19]
 * \[2025] Galaxea Open-World Dataset and G0 Dual-System VLA Model \[[paper](https://arxiv.org/pdf/2509.00576)] \[[project](https://opengalaxea.github.io/G0/)] \[[code](https://github.com/OpenGalaxea/G0) ⭐ 0 | 🐛 0 | 🌐 HTML | 📅 2026-03-24]
@@ -830,7 +830,7 @@
 
 ## Simulator
 
-* \[2024] Nvidia Isaac \[[Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,581 | 🐛 401 | 🌐 Python | 📅 2026-11-07] \[[Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)] \[[Isaac Gym](https://developer.nvidia.com/isaac-gym)]
+* \[2024] Nvidia Isaac \[[Isaac Lab](https://github.com/isaac-sim/IsaacLab) ⭐ 8,589 | 🐛 411 | 🌐 Python | 📅 2026-11-07] \[[Isaac Sim](https://docs.isaacsim.omniverse.nvidia.com/latest/index.html)] \[[Isaac Gym](https://developer.nvidia.com/isaac-gym)]
 * \[2025] UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI \[[paper](https://arxiv.org/abs/2412.20977)] \[[project](https://unrealzoo.site/)] \[[repo](https://github.com/UnrealZoo/unrealzoo-gym) ⭐ 377 | 🐛 13 | 🌐 Python | 📅 2026-10-17]
 * \[2025] MuBlE: MuJoCo and Blender simulation Environment and Benchmark for Task Planning in Robot Manipulation \[[paper](https://arxiv.org/pdf/2503.02834)] \[[project](https://github.com/michaal94/MuBlE) ⭐ 54 | 🐛 0 | 🌐 Python | 📅 2026-09-14]
 * \[2025] DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy \[[paper](https://arxiv.org/pdf/2505.11032)] \[[project](https://wayrise.github.io/DexGarmentLab/)]
@@ -841,19 +841,19 @@
 
 ## Related Works
 
-* Awesome-LLM-Robotics \[[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,499 | 🐛 8 | 📅 2026-10-29]
-* Awesome World Models \[[repo](https://github.com/knightnemo/Awesome-World-Models) ⭐ 3,519 | 🐛 2 | 📅 2026-11-02]
+* Awesome-LLM-Robotics \[[repo](https://github.com/GT-RIPL/Awesome-LLM-Robotics) ⭐ 4,499 | 🐛 9 | 📅 2026-10-29]
+* Awesome World Models \[[repo](https://github.com/knightnemo/Awesome-World-Models) ⭐ 3,521 | 🐛 2 | 📅 2026-11-02]
 * Awesome World Models for Robotics \[[repo](https://github.com/leofan90/Awesome-World-Models) ⭐ 2,053 | 🐛 1 | 🌐 Python | 📅 2026-11-03]
 * Awesome-WAM \[[repo](https://github.com/OpenMOSS/Awesome-WAM) ⭐ 1,519 | 🐛 119 | 🌐 HTML | 📅 2026-09-07]
 * Awesome-Robotics-Foundation-Models \[[repo](https://github.com/robotics-survey/Awesome-Robotics-Foundation-Models) ⭐ 1,423 | 🐛 3 | 📅 2024-10-07]
-* Awesome-Astra-Embodied-AI \[[repo](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) ⭐ 1,234 | 🐛 1 | 📅 2026-10-28]
+* Awesome-Astra-Embodied-AI \[[repo](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) ⭐ 1,236 | 🐛 1 | 📅 2026-10-28]
 * OpenWorldLib \[[repo](https://github.com/OpenDCAI/OpenWorldLib) ⭐ 889 | 🐛 6 | 🌐 Python | 📅 2026-10-29]
 * Awesome-VLA-Robotics \[[repo](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) ⭐ 502 | 🐛 4 | 📅 2026-10-19]
 * Awesome VLA for Robotics \[[repo](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) ⭐ 502 | 🐛 4 | 📅 2026-10-19]
-* Awesome-Physical-AI \[[repo](https://github.com/keon/awesome-physical-ai) ⭐ 453 | 🐛 24 | 📅 2026-06-24]
+* Awesome-Physical-AI \[[repo](https://github.com/keon/awesome-physical-ai) ⭐ 456 | 🐛 24 | 📅 2026-06-24]
 * Awesome-VLA-RL \[[repo](https://github.com/XiaoWei-i/Awesome-VLA-RL) ⭐ 440 | 🐛 1 | 📅 2025-10-10]
-* Awesome VLA Study \[[repo](https://github.com/MilkClouds/awesome-vla-study) ⭐ 414 | 🐛 0 | 📅 2026-03-21]
-* Awesome-BFM-Papers \[[repo](https://github.com/yuanmingqi/awesome-bfm-papers) ⭐ 348 | 🐛 0 | 📅 2026-10-15]
+* Awesome VLA Study \[[repo](https://github.com/MilkClouds/awesome-vla-study) ⭐ 415 | 🐛 0 | 📅 2026-03-21]
+* Awesome-BFM-Papers \[[repo](https://github.com/yuanmingqi/awesome-bfm-papers) ⭐ 349 | 🐛 0 | 📅 2026-10-15]
 * Awesome-VLA-Post-Training \[[repo](https://github.com/AoqunJin/Awesome-VLA-Post-Training) ⭐ 262 | 🐛 1 | 📅 2026-10-03]
 * Awesome-Generalist-Agents \[[repo](https://github.com/cheryyunl/awesome-generalist-agents) ⭐ 157 | 🐛 3 | 📅 2025-02-20]
 * Physical AI Atlas — open dataset (CC BY 4.0) of the physical AI ecosystem: humanoid robots, industrial platforms, VLA models, embedded chips, simulators and labs, bilingual FR/EN and dated per entry \[[repo](https://github.com/PlbKin190/physical-ai-atlas-data) ⭐ 0 | 🐛 0 | 📅 2026-07-30] \[[site](https://www.d-fairy.fr/atlas/)]
@@ -864,4 +864,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
